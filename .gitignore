@@ -1,0 +1,9 @@
+.idea
+*.pyc
+*/node_modules/*
+*/dist/*
+*/target/*
+/css/node_modules/
+/target
+/dist/
+
